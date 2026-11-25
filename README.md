@@ -9,6 +9,9 @@ keeps them shippable.
 - **[VDB](https://github.com/ayannabansal/VDB)**: a vector search engine in C++17 with an
   HNSW index. 97.8% recall@10 at about 2,700 queries/sec on 1M vectors, benchmarked against
   hnswlib. Includes crash-safe save and load.
+- **[contrib-scout](https://github.com/ayannabansal/contrib-scout)**: a command-line tool that
+  tells you whether a GitHub issue is really free to work on, and how quickly a project reviews
+  outside pull requests. TypeScript, read-only, every verdict shows its evidence.
 - **[75Hard](https://github.com/ayannabansal/75Hard)**: a habit tracker built with React and
   Supabase. [Live site](https://75-hard-orpin.vercel.app)
 
@@ -22,7 +25,7 @@ keeps them shippable.
 ### Currently
 
 - Extending VDB: a write-ahead log and a semantic-search demo are next
-- Getting into open source, starting with the tools I use every day
+- Contributing to open source: bug fixes for the AWS SDK for JavaScript, bug reports for Mastra
 
 ### Reach me
 
